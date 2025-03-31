@@ -1,0 +1,1 @@
+Over the past few weeks, I've been diving deep into Ola's ride data for July 2024, using SQL and Power BI to uncover trends and insights. The goal? To analyze booking patterns, driver performance, and revenue metrics—all while improving operational efficiency.
